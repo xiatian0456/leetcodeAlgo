@@ -1,2 +1,2 @@
 # leetcodeAlgo
-日常在leetcode上的解题过程
+记录在leetcode上的解题过程
